@@ -24,3 +24,4 @@ vaders = vaders.merge(df, how='left')
 ax = sns.barplot(data=vaders, x='Score', y='compound')
 ax.set_title('Compund Score by Amazon Star Review')
 plt.show()
+
