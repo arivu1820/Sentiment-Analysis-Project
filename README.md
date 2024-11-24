@@ -149,8 +149,4 @@ results_df.query('Score == 5').sort_values('vader_neg', ascending=False)['Text']
 
 This project demonstrates how to use different sentiment analysis techniques and models to analyze and visualize sentiment in text data.
 
-**Author**
-Perarivalan
 
-**Acknowledgments**
-Thanks to the developers of the libraries and models used in this project!
